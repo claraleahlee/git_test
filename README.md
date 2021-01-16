@@ -1,0 +1,1 @@
+This is claraleahlee's first git project!
